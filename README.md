@@ -41,3 +41,9 @@
 /visuals        # 시각화 이미지
 /docs           # 발표자료 or PDF
 README.md       # 프로젝트 설명
+
+---
+
+## 📓 주요 분석 노트북
+
+- [이중슬릿 실험 시뮬레이션 보기](./notebooks/quantum_observation_effect.ipynb)
