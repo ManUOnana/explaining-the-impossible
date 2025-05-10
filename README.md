@@ -36,7 +36,6 @@
 
 ## 📁 폴더 구조
 
-```plaintext
 /notebooks      # 분석 코드 (.ipynb)
 /visuals        # 시각화 이미지
 /docs           # 발표자료 or PDF
